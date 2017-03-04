@@ -1,0 +1,24 @@
+li {
+  list-style-image: url("/home/veronika/Документи/Домашні завдання.html/bells.png");
+}
+body {
+  background: url("/home/veronika/Документи/Домашні завдання.html/background3.jpg");
+  background-size: cover;
+  padding-top: 30px;
+  padding-left: 30px;
+}
+div {
+  background-color: white;
+  height: 400px;
+  width: 300px;
+  border-radius: 10px;
+  border-color: #4d6879;
+  border-style: solid;
+  padding-left: 50px;
+  padding-right: 40px;
+  color: #4d6879;
+  border-width: 1px;
+  padding-bottom: 20px;
+  padding-top: 10px;
+  font-family: 'Poiret One', cursive;
+}
